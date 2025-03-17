@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 ## Microsoft's Quantum Computing Timeline
 
 ### Early Research and Development
@@ -112,7 +106,6 @@ Microsoft has recently unveiled Majorana 1, the world's first Quantum Processing
 
 In conclusion, topoconductors represent a significant leap forward in quantum computing technology, offering the potential for more stable, scalable, and practical quantum systems that could accelerate the realization of useful quantum computers.
 
-<div style="text-align: center">⁂</div>
 
 [^3_1]: http://erichorvitz.com/quantum_breakthrough.htm
 
